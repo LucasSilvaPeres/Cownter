@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615218385080",
+    "project_id": "cownter-1a190",
+    "storage_bucket": "cownter-1a190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615218385080:android:8edbec53e2204f2a3fa44d",
+        "android_client_info": {
+          "package_name": "com.example.cownter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615218385080-83no49711frqsahosuqvb5qmo8m2k0de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmq9AbbwWUIU7r7cH78V8Lymb8Mvzu8gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615218385080-83no49711frqsahosuqvb5qmo8m2k0de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
